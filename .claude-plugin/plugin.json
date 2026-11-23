@@ -1,0 +1,25 @@
+{
+  "name": "fragua-data-spain",
+  "displayName": "Fragua Data Spain",
+  "version": "1.0.0",
+  "description": "Spanish real estate insights from Fragua by Atlas Real Estate Analytics.",
+  "author": {
+    "name": "Atlas Real Estate Analytics",
+    "email": "welcome@atlas-reanalytics.com",
+    "url": "https://fragua-ai-plugins.atlas-reanalytics.com/claude"
+  },
+  "homepage": "https://fragua-ai-plugins.atlas-reanalytics.com/claude",
+  "license": "MIT",
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://fragua-ai-plugins.atlas-reanalytics.com/claude",
+  "supportUrl": "https://fragua-ai-plugins.atlas-reanalytics.com/es/support",
+  "privacyPolicyUrl": "https://atlas-reanalytics.com/fragua/politica-de-privacidad/",
+  "termsOfServiceUrl": "https://atlas-reanalytics.com/fragua/terminos-y-condiciones/",
+  "keywords": [
+    "real estate",
+    "spain",
+    "housing market",
+    "cadastre",
+    "demographics"
+  ]
+}
